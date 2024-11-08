@@ -183,7 +183,7 @@ int main()
 	Model F_LeftLeg((char*)"Models/F_LeftLegDog.obj");
 	Model B_RightLeg((char*)"Models/B_RightLegDog.obj");
 	Model B_LeftLeg((char*)"Models/B_LeftLegDog.obj");*/
-	Model Piso((char*)"Models/arbol.obj");
+	Model Piso((char*)"Models/lake.obj");
 	/*Model Ball((char*)"Models/ball.obj");*/
 
 
